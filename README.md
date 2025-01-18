@@ -1,10 +1,10 @@
-# 简易基金理财销售系统 / Simple Fund Management Sales System
+# 简易基金理财销售系统 / Conceptual Fund Management Sales System
 
 ## 项目简介 / Project Overview
 
 **简易基金理财销售系统** 是一款专为投资者在基金公司柜台办理开户、交易等功能的系统。该系统不仅提供基础数据维护，还包括产品管理、开户、申购、赎回、清算和业务查询等功能模块，旨在提升柜台工作人员的工作效率，同时为投资者提供简便的交易体验。此系统为恒生金融科技创新训练营项目的一部分，当前为初始版本，未来将继续优化和迭代。
 
-**Simple Fund Management Sales System** is a system designed for investors to perform account opening, trading, and other operations at the fund company's counter. In addition to basic data maintenance, the system includes modules for product management, account opening, subscription, redemption, settlement, and business inquiries. The system aims to improve the efficiency of counter staff while providing investors with a seamless trading experience. This system is part of Hundsun Financial Technology Innovation Training Camp project, and it is an initial version, with future optimizations and iterations planned.
+**Conceptual Fund Management Sales System** is a system designed for investors to perform account opening, trading, and other operations at the fund company's counter. In addition to basic data maintenance, the system includes modules for product management, account opening, subscription, redemption, settlement, and business inquiries. The system aims to improve the efficiency of counter staff while providing investors with a seamless trading experience. This system is part of Hundsun Financial Technology Innovation Training Camp project, and it is an initial version, with future optimizations and iterations planned.
 
 ---
 
